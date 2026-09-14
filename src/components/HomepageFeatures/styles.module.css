@@ -1,3 +1,9 @@
+.featureParent {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 .features {
   display: flex;
   align-items: center;
@@ -6,6 +12,18 @@
 }
 
 .featureSvg {
-  height: 200px;
-  width: 200px;
+  height: 120px;
+  width: 120px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .featureSvg {
+    filter: invert(1) brightness(2);
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

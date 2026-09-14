@@ -1,25 +1,8 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+michelleburns:
+  name: Michelle Burns
+  title: Author
+  url: https://www.linkedin.com/in/michelle-burns-3b6a76121/
+  image_url: https://media.licdn.com/dms/image/v2/C4D03AQFLmJNU4_R27g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1538132997219?e=1790812800&v=beta&t=MNmhQFkFPWbHo94v9ERhQlczhtlgrVQXNn7pO48c2Qs
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    linkedin: michelle-burns-3b6a76121
