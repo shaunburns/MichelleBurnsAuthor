@@ -12,7 +12,9 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <img src={require('@site/static/img/michelle-burns-profile.jpg').default} width="180" />
+        <div className={styles.heroImageCircle}>
+          <img src={require('@site/static/img/michelle-burns-profile.jpg').default} />
+        </div>
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
