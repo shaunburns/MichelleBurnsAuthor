@@ -108,6 +108,15 @@ const config: Config = {
           ],
         },
         {
+          title: 'Community',
+          items: [
+            {
+              label: 'Coming Soon',
+              to: '/'
+            },
+          ],
+        },
+        {
           title: 'More',
           items: [
             {
