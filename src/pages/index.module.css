@@ -23,13 +23,18 @@
 }
 
 .heroImageCircle {
-  border-color: transparent;
-  border-image: none;
-  border-radius: 50% 50% 50% 50%;
-  border-style: solid;
-  border-width: 25px;
-  height: 180px;
   width: 180px;
+  height: 180px;
+  margin: 0 auto;
   overflow: hidden;
-  place-self: center;
+  border: 25px solid transparent;
+  border-radius: 50%;
+}
+
+.heroImageCircle img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  object-position: 50% 50%;
 }

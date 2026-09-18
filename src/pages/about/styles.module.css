@@ -1,3 +1,7 @@
 .aboutLayout {
   place-items: center;
 }
+
+.paragraphDiv {
+  margin: '0 0 1rem',
+}
