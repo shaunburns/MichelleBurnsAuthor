@@ -26,7 +26,7 @@ I'm trying to create one.
 
 # The Psycharium
 
-I'm currently around 50,000 words into my first novel, The Psycharium, which is planned as the first book in a three-book High Fantasy series.
+I'm currently around 50,000 words into my first novel, The Psycharium, which is planned as the first book in a three-book Epic Fantasy series.
 
 It's both exhilarating and slightly terrifying to finally be able to say that.
 
