@@ -92,6 +92,7 @@ const config: Config = {
           position: 'left',
           label: 'Books',
         },
+        {to: '/contact', label: 'Contact', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
       ],
     },
@@ -122,6 +123,10 @@ const config: Config = {
             {
               label: 'About',
               to: '/about',
+            },
+            {
+              label: 'Contact',
+              to: '/contact',
             },
             {
               label: 'Blog',

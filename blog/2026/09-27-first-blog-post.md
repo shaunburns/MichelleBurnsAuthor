@@ -50,7 +50,7 @@ Rather than appearing one day with a finished book and simply announcing it ( ..
 
 If you're interested in fantasy stories, the process of writing a novel, or simply curious to see whether an aspiring author can turn an idea into a finished trilogy, please join me as we embark on this adventure together!
 
-And hopefully, before long, Psycharium will leave my desk and find its way into your hands – and hearts. 
+And hopefully, before long, Psycharium will leave my desk and find its way into your hands - and hearts. 
 
 Until then, thank you for being here.
 
