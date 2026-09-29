@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
         Discover books coming soon
       </>
     ),
-    link: '/docs/the-psycharium',
+    link: '/docs/psycharium',
   },
   {
     title: 'Blog',
