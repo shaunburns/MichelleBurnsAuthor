@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Michelle Burns',
-  tagline: 'Writer, Storyteller and Author',
+  tagline: 'Writer, Storyteller and Aspiring Author',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -102,8 +102,8 @@ const config: Config = {
           title: 'Books',
           items: [
             {
-              label: 'The Psycharium',
-              to: '/docs/the-psycharium',
+              label: 'Psycharium',
+              to: '/docs/psycharium',
             },
           ],
         },
@@ -130,7 +130,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Michelle Burns.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Michelle Burns`,
     },
     prism: {
       theme: prismThemes.github,

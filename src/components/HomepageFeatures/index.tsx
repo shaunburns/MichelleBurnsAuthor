@@ -17,7 +17,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/about.svg').default,
     description: (
       <>
-        Find out more about Michelle Burns.
+        Find out more about Michelle Burns
       </>
     ),
     link: '/about',
@@ -27,7 +27,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/books-stack-of-three.svg').default,
     description: (
       <>
-        Discover the books that have been published or coming soon.
+        Discover books coming soon
       </>
     ),
     link: '/docs/the-psycharium',
@@ -37,7 +37,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/blog-writing.svg').default,
     description: (
       <>
-        Latest news.
+        Latest news and updates
       </>
     ),
     link: '/blog',
